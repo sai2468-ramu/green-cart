@@ -4,6 +4,19 @@
 [![Demo Video](
 https://github.com/user-attachments/assets/8540a61d-dcb2-4417-8762-08d126cdf56a
 )
+How to access the project and verification procedure of project :
+* Download the file from github  
+* Extract the .zip
+* setup monogodb database,node.js,react.js
+* Start the monogodb server from VS CODE from files located folder  terminal , leave it move to new terminal 
+*  Use new terminal for server side : cd server
+*     type npm install
+*        Then type : npm start server
+* Use new terminal for client side :cd client
+*     type npm install
+*        Then type : npm run dev
+*    click on the localhost link to view app interface 
+
 
 GreenCart is a MERN + Vite-based grocery shopping platform designed to make online grocery shopping **fast**, **efficient**, and **user-friendly**. Ideal for both shoppers and sellers, it offers:
 
